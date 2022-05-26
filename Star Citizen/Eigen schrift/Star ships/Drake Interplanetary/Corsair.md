@@ -1,0 +1,3 @@
+## Corsair
+
+Ontworpen als lange afstand ontdekkingsschip is de corsair ontworpen onder de nieuwe CEO #Ayden_Arden is het een schip die zich markteert als de ultieme explorer die zichzelf kan verdedigen als het moet. Maar veel mensen kiezen de Corsair als heavy fighter of als een duurdere grootere Cutlass. Omdat puur Drake de Corsair naast het exploration ook een goede cargorunner en ook een goede bewapening heeft.

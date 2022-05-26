@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "1a4563417b187e48",
+    "type": "split",
+    "children": [
+      {
+        "id": "4319dffcd30bdcaa",
+        "type": "split",
+        "children": [
+          {
+            "id": "ea8683e55578c4bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Star Citizen/Eigen schrift/Brands/Crusader.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a1d9eae059a227d0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e9262ec30b86736",
+    "type": "split",
+    "children": [
+      {
+        "id": "f68a2d53e4ac912d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03495bad71ad3057",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e3b7568688cf58d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#de_groote_logistieke_crisis",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f9a632b51e3a4be",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 399
+  },
+  "right": {
+    "id": "2ecce51706d71a3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebcdf064f6bffb70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee72234d0d5d9935",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Star Citizen/Eigen schrift/Brands/Crusader.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "962ceb9406e9f670",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Star Citizen/Eigen schrift/Brands/Crusader.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "688791b5006dfd3b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "99236468932d2a0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Star Citizen/Eigen schrift/Brands/Crusader.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "ea8683e55578c4bd",
+  "lastOpenFiles": [
+    "Star Citizen/Eigen schrift/Brands/Crusader.md",
+    "Star Citizen/Eigen schrift/Beroepen/Inforunning.md",
+    "Star Citizen/Eigen schrift/Star ships/Aegis Dynamics/Avenger.md",
+    "Star Citizen/Eigen schrift/Star ships/Drake Interplanetary/Corsair.md",
+    "Star Citizen/Eigen schrift/Brands/Drake Interplanetary.md",
+    "Star Citizen/Eigen schrift/Star ships/Drake Interplanetary/Kraken.md",
+    "Star Citizen/Eigen schrift/Star ships/Drake Interplanetary/Vulture.md",
+    "Star Citizen/Eigen schrift/Star ships/Drake Interplanetary/Dragonfly.md",
+    "Star Citizen/Eigen schrift/Brands/Musashi Industrial and Starflight Concern.md",
+    "Star Citizen/Eigen schrift/Star ships/Drake Interplanetary/Buccaneer.md"
+  ]
+}

@@ -1,0 +1,2 @@
+## 325a
+De combat variant van de 300 series, De 300 series was gebouwd als eerste stap in de alledaagse markt, 'luxury for every budget'. Omdat dit minder luxe was als wat ze standaard maken gingen ze net zoals veel andere in deze markt de meer modellen reeds op, waaronder het 325 model welke zelfs voor de #UEE gekocht werd, vaak worden deze als escorte gebruikt bij de meer high end vluchten zodat de vloot als algeheel niet afgebroken wordt in status door zoals ze zelf zeggen een cutlass naast een 890.

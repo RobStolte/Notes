@@ -1,0 +1,3 @@
+## Buccaneer
+
+in 2930 werd de Buccaneer ontwikkeld na de [[Herald]] en de [[Caterpillar]] als escorte. In de tijd dat de [[Gladius]] de standaard van een goede Light fighter neerzette vond Drake dat het goedkoper kon, dus om een goede escorte naast de caterpillar neer te zetten ontwikkelde ze de Buccaneer. Maar omdat de Herald ook vaak vraag had naar iets meer vuurkracht ging tijdens de ontwikkeling de vraag om de Herald bij te houden meer omhoog en werd de Buccaneer uitgerust met een belachelijk motorvermogen.

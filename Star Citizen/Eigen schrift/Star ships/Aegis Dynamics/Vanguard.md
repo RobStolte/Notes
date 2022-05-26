@@ -1,0 +1,2 @@
+## vanguard
+uitgebracht in 2737 de trots van de marineers de vanguard initiëel alleen de warden long range fighter werden er snel meer varianten gebouwd met het BUK (battlefield upgrade kit) gemaakt. waardoor een vanguard op de frontline snel omgebouwd kon worden voor een nieuwe missie als bomber, dropship, e-warfare, etc.

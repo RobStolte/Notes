@@ -1,0 +1,2 @@
+## Perseus
+Officiëel het oudste schip in dienst. 2520 #UPE nam de leiding over van de #UNE en ze hadden een schip nodig om de vrede op de frontier te bewaken. De perseus heeft deze rol altijd erg goed vervuld, vaak als er ergens rellen waren en de perseus kwam in het system vluchte de rellen al zonder agressief te worden. Het motto van deze 'vrede vlooten' met 3-4 perseuses was altijd 'look mean and stop fights without firing a shot'. De perseus was een erg goedkoop schip voor hoe sterk hij was in offensief, juist daarom wordt hij nog steeds veel in de frontier gebruikt.

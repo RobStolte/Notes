@@ -1,0 +1,10 @@
+{
+  "translucency": true,
+  "interfaceFontFamily": "FiraCode Nerd Font Mono Retina,FiraCode Nerd Font Retina",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono Retina",
+  "textFontFamily": "FiraCode NF Retina",
+  "baseFontSize": 13,
+  "enabledCssSnippets": [
+    "embedVideo"
+  ]
+}

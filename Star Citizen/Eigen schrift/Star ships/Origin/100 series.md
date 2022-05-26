@@ -1,0 +1,2 @@
+## 125a
+speciaal als instap long range fighter gebouwd door het air system. De 100 series was het testbed voor dit speciale systeem, al is het officieel een light fighter wilt Origin het exclusiever verkopen met dit systeem om aan een praktisch ontwerp toch een luxe tint te geven

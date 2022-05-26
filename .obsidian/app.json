@@ -1,0 +1,15 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "showFrontmatter": true,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-GB",
+    "nl"
+  ],
+  "alwaysUpdateLinks": true
+}

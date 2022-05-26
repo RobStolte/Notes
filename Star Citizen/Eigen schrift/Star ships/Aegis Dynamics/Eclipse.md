@@ -1,0 +1,3 @@
+## Eclipse
+
+Project Eclipse geïnitiëerd door imperiator colly in 2920, colly dacht dat ookal was de coude oorlog met de Xian tot vrede gebracht dat er nog een nasleep kon komen en daar moest de UEE op voorbereid zijn. Om een extra edge te geven liet hij een geheim project de Eclipse maken. Al is de 2de koude oorlog nooit gekomen is hij daarna wel erg successvol gebleken tegen de vanduul,onder de historical truth act van 2947 werd de Eclipse bekend gemaakt aan het grotere publiek en werd deze in het civillian mobilisation act opgenomen waardoor deze ook verkocht werd aan civillians.

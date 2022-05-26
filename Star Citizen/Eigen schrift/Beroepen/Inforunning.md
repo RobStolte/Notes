@@ -1,0 +1,4 @@
+Doordat er geen sneller dan licht datatransmissie bestaat heb je normale communicatie die van comm-relay naar comm-relay springt en door een #jump_point heen geprobed (een fysieke probe met harde schijven die pendelt tussen 2 comm-relays aan beide zijdes van een #jump_point) wordt om in het volgende system ook weer te hoppen tussen comm-relays.
+Dit creëert een erg trage en vooral onveilige manier van communiceren, nu met de economie is deze communicatie ook steeds belangrijker en wil men sneller weten waar de beste deals te krijgen.
+
+De Inforunners zijn daardoor bijna altijd sneller en vooral ook veel veiliger omdat er geen gehackte comm-relay probleem tussen kan zitten.
